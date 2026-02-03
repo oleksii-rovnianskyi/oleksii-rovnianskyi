@@ -1,7 +1,6 @@
 ### Hi there, I'm Oleksii Rovnianskyi 👋
 
 **Senior DevOps / Cybersecurity Engineer | Ethical Hacker | SysAdmin**
-Based in Kraków, Poland 🇵🇱 / Kyiv, Ukraine 🇺🇦
 
 ---
 
